@@ -3,7 +3,7 @@
 <p align="center">
   <img src="assets/paradozhub.png" alt="Symphony Hub Logo" width="400"/><br><br>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=500&color=00FFD1&center=true&vCenter=true&width=700&lines=⚡+Welcome+to+CentuDox+Hub!+⚡;🟢+99+Days+in+a+Forest;🔴+Murder+Mystery+2" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=500&color=00FFD1&center=true&vCenter=true&width=700&lines=🎵+Welcome+to+Symphony+Hub!+🎺;🟢+99+Days+in+a+Forest;🔴+Murder+Mystery+2" alt="Typing SVG" />
 </p>
 
 ---
@@ -12,7 +12,7 @@
 
 - 🚀 Roblox Script Developer
 - 🔥 Creator of **Symphony Hub**  
-- 🎮 Focuses on **GOOD GAMES**
+- 🎮 Focuses on **GOOD Scripts**
 
 ---
 
@@ -28,5 +28,5 @@
 ## 🚀 Scripts
 
 ### Symphony Hub Main Loader!
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/symphonyhub67-a11y/Symphony-Hub/refs/heads/main/Symphony%20Hub.xyz"))()
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/symphonyhub67-a11y/Symphony-Hub/refs/heads/main/Symphony%20Hub.xyz"))()```
