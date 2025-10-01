@@ -1,32 +1,34 @@
-# 🎶 <span style="background:linear-gradient(90deg, #ff0000, #ff9900, #00ff00, #00ffff, #0000ff, #ff00ff);-webkit-background-clip:text;color:transparent;">Symphony Hub</span>
+# 🌌 <span style="background: linear-gradient(90deg, #ff0000, #ff9900, #00ff00, #00ffff, #0000ff, #ff00ff); -webkit-background-clip: text; color: transparent;">CentuDox Hub GOATED</span>
 
-![Symphony Hub Animated Banner](https://your-animated-gif-link.com/banner.gif)
+<p align="center">
+  <img src="assets/paradozhub.png" alt="ParadozHub Logo" width="400"/><br><br>
 
-Welcome to **Symphony Hub** – the ultimate Roblox script hub. Built for **speed**, **style**, and **RGB vibes**.  
-
----
-
-## 🌈 Features
-- ✅ **Supports:** 99 Nights in a Forest
-- 🚀 **Fast & Smooth** scripts
-- 🎨 **Sleek UI with RGB effects**
-- 🔧 **Easy to use** for beginners & pros
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=500&color=00FFD1&center=true&vCenter=true&width=700&lines=⚡+Welcome+to+CentuDox+Hub!+⚡;🟢+Supports+Blox+Fruits;🔴+Grow+a+Garden;🟢+99+Days+in+a+Forest;🔴+Steal+a+Brainrot" alt="Typing SVG" />
+</p>
 
 ---
 
-## ⚡ Badges / RGB Vibe
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=appveyor)
-![Roblox](https://img.shields.io/badge/Platform-Roblox-red?style=for-the-badge&logo=roblox)
-![Stars](https://img.shields.io/badge/Stellar-RGB-blue?style=for-the-badge&logo=github)
+## 👨‍💻 About Me
+
+- 🚀 Roblox Script Developer  
+- 🔥 Creator of **ParadozHub**  
+- 🟢 Works on **CentuDox Hub**  
+- 🎮 Focused on **Blox Fruits** and more  
 
 ---
 
-## 🚀 Getting Started
-1. Copy the loader script.
-2. Paste it into your Roblox executor.
-3. Enjoy the full **Symphony Hub** experience.
+## 🛠️ Features of CentuDox Hub
+
+- ✔️ Smooth & Optimized Lua Scripts  
+- ✔️ Supports **Blox Fruits**, **Grow a Garden**, **99 Nights in a Forest**  
+- ✔️ Modern UI + Fast Execution  
+- ✔️ Updated Regularly  
+- 🌈 RGB/Animated vibes for maximum style  
 
 ---
 
-> Made with 💜 for Roblox fans  
-> Fully RGB vibes 😎
+## 🚀 Script Previews
+
+### Blox Fruits Aimbot HUB 🟢
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ParadozCode/ParadozHub-/refs/heads/main/Paradoz%20Hub%20CentuDox.lua", true))()
