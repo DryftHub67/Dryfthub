@@ -19,7 +19,7 @@
 ## 🛠️ Features of Symphony Hub
 
 - ✔️ Smooth & Optimized Lua Scripts  
-- ✔️ Supports **99 Nights in a Forest**/ *more coming soon*
+- ✔️ Supports **99 Nights in a Forest** / *more coming soon*
 - ✔️ Modern UI + Fast Execution  
 - ✔️ Updated Regularly  
 
