@@ -11,7 +11,7 @@
 ## 👨‍💻 About US
 
 - 🚀 Roblox Script Developer
-- 🔥 Creator of **Symphony Hub**  
+- 🔥 Creator of **Dryft Hub**  
 - 🎮 Focuses on **GOOD Scripts**
 
 ---
@@ -27,6 +27,6 @@
 
 ## 🚀 Scripts
 
- Symphony Hub Main Loader!
+ Dryft Hub Main Loader!
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/symphonyhub67-a11y/Symphony-Hub/refs/heads/main/Symphony%20Hub.xyz"))()
