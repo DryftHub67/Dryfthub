@@ -29,4 +29,4 @@
 
  Dryft Hub Main Loader!
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/DryftHub67/Symphony-Hub/refs/heads/main/Dryft%20Hub"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DryftHub67/Dryfthub/refs/heads/main/Dryft%20Hub"))()
