@@ -11,17 +11,17 @@
 ## 👨‍💻 About US
 
 - 🚀 Roblox Script Developer
-- 🔥 Creator of **Dryft Hub**  
-- 🎮 Focuses on **GOOD Scripts**
+- 🔥 Creator of **Dryft Hub** — built for speed and simplicity
+- 🎮 Focuses on **Optimized, Clean, and Reliable Scripts**
 
 ---
 
 ## 🛠️ Features of Dryft Hub
 
-- ✔️ Smooth & Optimized Lua Scripts  
+- ✔️ Lightweight, performance-tuned Lua scripts Lua Scripts  
 - ✔️ Supports **99 Nights in a Forest** / *more coming soon*
-- ✔️ Modern UI + Fast Execution  
-- ✔️ Updated Regularly  
+- ✔️ Modern UI design with instant execution
+- ✔️ Constant updates and active improvements
 
 ---
 
