@@ -1,4 +1,4 @@
-# 🎺 <span style="background: linear-gradient(90deg, #ff0000, #ff9900, #00ff00, #00ffff, #0000ff, #ff00ff); -webkit-background-clip: text; color: transparent;">Dryft Hub</span>
+# 💨 <span style="background: linear-gradient(90deg, #ff0000, #ff9900, #00ff00, #00ffff, #0000ff, #ff00ff); -webkit-background-clip: text; color: transparent;">Dryft Hub</span>
 
 <p align="center">
   <img src="assets/image.png" alt="Dryft Hub Logo" width="400"/><br><br>
