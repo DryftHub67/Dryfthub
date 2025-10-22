@@ -1,4 +1,4 @@
-# 🎺 <span style="background: linear-gradient(90deg, #ff0000, #ff9900, #00ff00, #00ffff, #0000ff, #ff00ff); -webkit-background-clip: text; color: transparent;">Symphony Hub</span>
+# 🎺 <span style="background: linear-gradient(90deg, #ff0000, #ff9900, #00ff00, #00ffff, #0000ff, #ff00ff); -webkit-background-clip: text; color: transparent;">Dryft Hub</span>
 
 <p align="center">
   <img src="assets/symphonyhub.png" alt="Symphony Hub Logo" width="400"/><br><br>
