@@ -3,7 +3,7 @@
 <p align="center">
   <img src="assets/image.png" alt="Dryft Hub Logo" width="400"/><br><br>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=500&color=00FFD1&center=true&vCenter=true&width=700&lines=💨+Welcome+to+Dryft+Hub!+🎺;🟢+99+Days+in+a+Forest;🔴+Murder+Mystery+2" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=500&color=00FFD1&center=true&vCenter=true&width=700&lines=💨+Welcome+to+Dryft+Hub!+🎺" alt="Typing SVG" />
 </p>
 
 ---
